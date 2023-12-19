@@ -1,0 +1,7 @@
+[package]
+name = "database"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio-postgres = "0.7.10" # replace with the version you're using
